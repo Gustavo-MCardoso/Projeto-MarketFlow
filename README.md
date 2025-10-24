@@ -47,21 +47,3 @@ MarketFlow é um projeto de comércio eletrônico desenvolvido em Java.
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-
-## Contato
-
-<p align="left">
-  💌 Para entrar em contato comigo, sinta-se à vontade para utilizar os links ⤵️
-</p>
-
-<p align="left">
-  <a href="https://criarmeulink.com.br/u/1683233461" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://criarmeulink.com.br/u/1683233461" /></a>
-
-  <a href="https://www.linkedin.com/in/hiro-gabri3l/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  
- <a href="https://wa.me/5515991050324?text=Ol%C3%A1%2C+Vim+Pelo+seu+GitHub%21" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-</p>  
